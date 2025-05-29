@@ -1,0 +1,32 @@
+
+*************SAMPLES OF THE TRAINING DATA FROM bASKET BALL VIDEO CREATED ON 24TH oCT 07********
+
+
+
+C:\temp\haar_22Oct\tools>cd temp
+
+C:\temp\haar_22Oct\tools\temp>createsamples.exe -info positive/filterbasket_22O
+t07.txt -vec data/vector.vec -num 7000 -w 28 -h 60
+Info file name: positive/filterbasket_22Oct07.txt
+Img file name: (NULL)
+Vec file name: data/vector.vec
+BG  file name: (NULL)
+Num: 7000
+BG color: 0
+BG threshold: 80
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Width: 28
+Height: 60
+Create training samples from images collection...
+positive/filterbasket_22Oct07.txt(3706) : parse errorDone. Created 4381 samples
+
+C:\temp\haar_22Oct\tools\temp>
+
+
+
+
