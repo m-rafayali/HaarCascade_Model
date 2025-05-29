@@ -1,7 +1,7 @@
 ### 📄 **README.md (Professional, Clean, and Complete)**
 
 ```markdown
-# Haar Cascade Object Detection | CT-354 (Roll No: AI-304)
+# Haar Cascade Object Detection
 
 A computer vision project utilizing Haar Cascade Classifiers for real-time object detection. Developed as part of the Machine Learning course (CT-354), this project demonstrates face or feature detection using OpenCV's pretrained Haar models.
 
