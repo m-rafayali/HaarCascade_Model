@@ -25,7 +25,7 @@ Haar Cascades are effective for real-time object detection due to their speed an
 - Easy integration with OpenCV projects
 - Lightweight and efficient
 
----
+```
 
 ## 📁 Folder Structure
 
@@ -39,7 +39,7 @@ HaarModel\_f304/
 ├── requirements.txt
 └── sample\_images/
 
-````
+```
 
 ---
 
